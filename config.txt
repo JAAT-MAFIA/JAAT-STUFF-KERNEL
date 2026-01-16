@@ -1,14 +1,15 @@
 Dialog Message:
-     Hum maintenance par hain, kal wapas aayenge.
+We're performing scheduled maintenance at the moment.
+Please check back tomorrow. We appreciate your patience and support.
 
-     Exit Button Text:
-     EXIT
+Exit Button Text:
+EXIT
 
-     Contact Admin Button Text:
-     TELEGRAM
+Contact Support Button Text:
+CONTACT SUPPORT
 
-     Admin URL:
-     https://t.me/jaat_stuff
+Admin URL:
+https://t.me/x_Anonymousbot
 
-     Exit Command:
-     exit
+Exit Command:
+exit
